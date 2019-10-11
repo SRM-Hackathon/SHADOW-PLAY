@@ -7,3 +7,6 @@ The PIN entry can be observed by nearby adversaries, more effectively in a crowd
 
 
 Since the same PIN is usually chosen by a user for various purposes and used repeatedly, a compromise of the PIN may cause the user a great risk.
+
+
+Strategy that will completely neglect Shoulder Surfing even a Well Trained Perceptual Grouper could not Crack the PIN Digit Entered by the User in a Conventional Way using four colour method .
