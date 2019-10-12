@@ -40,5 +40,6 @@ Strategy that will completely neglect Shoulder Surfing even a Well Trained Perce
       
       Authenticate- https://stackoverflow.com/questions/15961940/how-jsp-page-should-check-authentication
       
+      credit/debit: https://www.c-sharpcorner.com/forums/how-to-calculate-running-balanace-depositwithdrawsdata-jsp
    
  
