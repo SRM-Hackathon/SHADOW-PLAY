@@ -21,14 +21,18 @@ Strategy that will completely neglect Shoulder Surfing even a Well Trained Perce
 
 ## FUTURE SCOPE & ENHACEMENTS
       
-      1) Full flexed independent  INTRUDER PIN PREVENTION SERVICE can be built and hosted as an independent service  authentication              service that be consumed by any other external business domain system  by calling the API interface.
+      1) Full flexed independent  INTRUDER PIN PREVENTION SERVICE can be built and hosted as an independent service
+      authentication service that be consumed by any other external business domain system  by calling
+      the API interface.
       
-      2) Further Innovation can be applied from the user usability aspect to reduce the no of turns.
+      2) Further Innovation can be applied from the user usability aspect to reduce the no of 
+      turns.
       
       
 ## PROJECT OUTCOME
             
-      We believe implementing “INTRUDER PIN PREVENTION USING colour METHOD” at Banking, ATMs, POS Terminals, etc., will significantly         strengthen the security of the system by putting an end to shoulder surfing issues.
+      We believe implementing “INTRUDER PIN PREVENTION USING colour METHOD” at Banking, ATMs, POS Terminals, etc.,
+      will significantly strengthen the security of the system by putting an end to shoulder surfing issues.
 
 
 ## REFERENCE
