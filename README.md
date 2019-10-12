@@ -31,18 +31,16 @@ Strategy that will completely neglect Shoulder Surfing even a Well Trained Perce
       We believe implementing “INTRUDER PIN PREVENTION USING colour METHOD” at Banking, ATMs, POS Terminals, etc., will significantly         strengthen the security of the system by putting an end to shoulder surfing issues.
 
 
-## REFERENCES
-
-  1) Covert Attentional Shoulder Surfing: Human Adversaries Are More Powerful Than Expected Taekyoung Kwon, Member, IEEE, Sooyeon Shin,          Associate Member, IEEE, and Sarang Na, Student Member, IEEE TRANSACTIONS ON SYSTEMS, MAN, AND   CYBERNETICS: SYSTEMS,2018.
+## REFERENCE
   
-  2) src:
+  1) src:
       Mailer-https://www.mkyong.com/java/javamail-api-sending-email-via-gmail-smtp-example
       
       Authenticate- https://stackoverflow.com/questions/15961940/how-jsp-page-should-check-authentication
       
       credit/debit: https://www.c-sharpcorner.com/forums/how-to-calculate-running-balanace-depositwithdrawsdata-jsp
       
-  3) jsp database connections-https://www.guru99.com/jsp-database-connection.html 
+  2) jsp database connections-https://www.guru99.com/jsp-database-connection.html 
       
      jsp html,css connections-https://stackoverflow.com/questions/7382607/how-to-load-css-file-into-jsp
      
