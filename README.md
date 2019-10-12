@@ -33,6 +33,6 @@ Strategy that will completely neglect Shoulder Surfing even a Well Trained Perce
     
   3) “Extensions of GOMS analyses to expert performance requiring perception of dynamic visual and auditory information,” in Proc. ACM           SIGCHI Conf. Human Factors Comput. Syst., 1990, pp. 107–116
  
-   4) "W3 Schools CSS MODULES REFERED for CLASSIC LOOK AND FEEL"
+   4) "W3 Schools CSS MODULES REFERRED for CLASSIC LOOK AND FEEL"
    
  
