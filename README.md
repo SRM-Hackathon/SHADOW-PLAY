@@ -36,7 +36,8 @@ Strategy that will completely neglect Shoulder Surfing even a Well Trained Perce
   1) Covert Attentional Shoulder Surfing: Human Adversaries Are More Powerful Than Expected Taekyoung Kwon, Member, IEEE, Sooyeon Shin,          Associate Member, IEEE, and Sarang Na, Student Member, IEEE TRANSACTIONS ON SYSTEMS, MAN, AND   CYBERNETICS: SYSTEMS,2018.
   
   2) src:
-      Mailer-https://www.mkyong.com/java/javamail-api-sending-email-via-gmail-smtp-example/
+      Mailer-https://www.mkyong.com/java/javamail-api-sending-email-via-gmail-smtp-example
+      
       Authenticate- https://stackoverflow.com/questions/15961940/how-jsp-page-should-check-authentication
       
    
