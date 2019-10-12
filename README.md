@@ -42,7 +42,11 @@ Strategy that will completely neglect Shoulder Surfing even a Well Trained Perce
       
       credit/debit: https://www.c-sharpcorner.com/forums/how-to-calculate-running-balanace-depositwithdrawsdata-jsp
       
-  3) jsp database connections-https://www.guru99.com/jsp-database-connection.html    
-  4) Transfer(generating OTP) - https://www.includehelp.com/java-programs/method-to-generate-otp-string.aspx
+  3) jsp database connections-https://www.guru99.com/jsp-database-connection.html 
+      
+     jsp html,css connections-https://stackoverflow.com/questions/7382607/how-to-load-css-file-into-jsp
+     
+     jsp java code connections-https://stackoverflow.com/questions/25940525/how-to-connect-a-java-program-to-a-jsp-page
+  
    
  
