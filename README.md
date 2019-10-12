@@ -13,8 +13,10 @@ Since the same PIN is usually chosen by a user for various purposes and used rep
 Strategy that will completely neglect Shoulder Surfing even a Well Trained Perceptual Grouper could not Crack the PIN Digit Entered by the User in a Conventional Way using four colour method .
 ![Capture JPG1](https://user-images.githubusercontent.com/54446756/66694591-934b8c80-ecd2-11e9-8c2a-472ecfbd0d6e.JPG)
 
-## SYSTEM ARCHITECTURE
+## SYSTEM ARCHITECTURE AND FLOW CHART
 ![Capture1](https://user-images.githubusercontent.com/54446756/66696244-da904800-ece7-11e9-9965-fe3b030b249f.JPG)
+
+![Capture](https://user-images.githubusercontent.com/54446756/66694629-1cfb5a00-ecd3-11e9-821a-0c3269ab15fb.JPG)
 
 
 ## FUTURE SCOPE & ENHACEMENTS
