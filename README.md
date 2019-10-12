@@ -33,11 +33,5 @@ Strategy that will completely neglect Shoulder Surfing even a Well Trained Perce
 
   1) Covert Attentional Shoulder Surfing: Human Adversaries Are More Powerful Than Expected Taekyoung Kwon, Member, IEEE, Sooyeon Shin,          Associate Member, IEEE, and Sarang Na, Student Member, IEEE TRANSACTIONS ON SYSTEMS, MAN, AND   CYBERNETICS: SYSTEMS,2018.
   
-  2) A PIN entry method resilient against shoulder surfing, in Proc. ACM Conf. Compute. Commune Security, 2004, pp. 236–245 , V. Roth, 
-     K. Richter, and R. Freidinger.
-    
-  3) “Extensions of GOMS analyses to expert performance requiring perception of dynamic visual and auditory information,” in Proc. ACM           SIGCHI Conf. Human Factors Comput. Syst., 1990, pp. 107–116
- 
-   4) "W3 Schools CSS MODULES REFERRED for CLASSIC LOOK AND FEEL"
    
  
