@@ -14,7 +14,7 @@ Strategy that will completely neglect Shoulder Surfing even a Well Trained Perce
 ![Capture](https://user-images.githubusercontent.com/54446756/66694629-1cfb5a00-ecd3-11e9-821a-0c3269ab15fb.JPG)
 ## REFERENCES
 
-  1) Covert Attentional Shoulder Surfing: Human Adversaries Are More Powerful Than Expected Taekyoung Kwon, Member, IEEE, Sooyeon Shin,          Associate Member, IEEE, and Sarang Na, Student Member, IEEE TRANSACTIONS ON SYSTEMS, MAN, AND   CYBERNETICS: SYSTEMS,2013
+  1) Covert Attentional Shoulder Surfing: Human Adversaries Are More Powerful Than Expected Taekyoung Kwon, Member, IEEE, Sooyeon Shin,          Associate Member, IEEE, and Sarang Na, Student Member, IEEE TRANSACTIONS ON SYSTEMS, MAN, AND   CYBERNETICS: SYSTEMS,2018.
   
   2) A PIN entry method resilient against shoulder surfing, in Proc. ACM Conf. Compute. Commune Security, 2004, pp. 236–245 , V. Roth, 
      K. Richter, and R. Freidinger.
